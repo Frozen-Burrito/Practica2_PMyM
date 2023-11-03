@@ -1,5 +1,5 @@
 /**
- * Practica 1 - Control de direccion y velocidad
+ * Practica 2 - Tablero de control y transmision de estado.
  *
  * Conexiones:
  *
